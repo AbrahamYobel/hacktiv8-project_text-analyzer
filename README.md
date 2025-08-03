@@ -20,9 +20,9 @@ A full-stack web application that analyzes input text using AI, classifies it in
 hacktiv8-project/
 ├── text-analyzer/         # Express backend
 │   └── App.js
-│   └── .env           # For REPLICATE_API_TOKEN
 ├── my-replicate-app/       # React frontend
 │   └── index.js
+│   └── .env           # For REPLICATE_API_TOKEN
 └── README.md
 ```
 
