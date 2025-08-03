@@ -60,7 +60,7 @@ The server runs on: `http://localhost:3001`
 
 ### 1. Install Dependencies
 
-Navigate to the React project directory:
+After you install React JS, you need Navigate to the React project directory:
 
 ```bash
 cd text-analyzer
